@@ -66,7 +66,12 @@ Reference
 ---------
 * http://rfvallina.com/blog/2015/08/22/preview-tiff-and-pdf-files-using-html5-file-api/
 
+Blog
+------
+[How to Create a Web Barcode Reader App with PHP and Nginx][5]
+
 [1]:http://nginx.org/en/download.html
 [2]:http://php.net/downloads.php
 [3]:http://www.dynamsoft.com/Downloads/Dynamic-Barcode-Reader-Download.aspx
 [4]:http://www.codepool.biz/php-windows-barcode-reader-extension.html
+[5]:http://www.codepool.biz/php-nginx-web-barcode-reader.html
